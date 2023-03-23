@@ -21,5 +21,5 @@ void input(int &len ,int &wth);
    cout << "Enter Length : ";
    cin>> len;
    cout << "Enter Width : ";
-     cin>> wth;
+     cin >> wth;
 }
